@@ -1,0 +1,11 @@
+/Users/Hi/Development/C#/Work-with-the-double-type/bin/Debug/netcoreapp3.1/Work-with-the-double-type
+/Users/Hi/Development/C#/Work-with-the-double-type/bin/Debug/netcoreapp3.1/Work-with-the-double-type.deps.json
+/Users/Hi/Development/C#/Work-with-the-double-type/bin/Debug/netcoreapp3.1/Work-with-the-double-type.runtimeconfig.json
+/Users/Hi/Development/C#/Work-with-the-double-type/bin/Debug/netcoreapp3.1/Work-with-the-double-type.runtimeconfig.dev.json
+/Users/Hi/Development/C#/Work-with-the-double-type/bin/Debug/netcoreapp3.1/Work-with-the-double-type.dll
+/Users/Hi/Development/C#/Work-with-the-double-type/bin/Debug/netcoreapp3.1/Work-with-the-double-type.pdb
+/Users/Hi/Development/C#/Work-with-the-double-type/obj/Debug/netcoreapp3.1/Work-with-the-double-type.csprojAssemblyReference.cache
+/Users/Hi/Development/C#/Work-with-the-double-type/obj/Debug/netcoreapp3.1/Work-with-the-double-type.AssemblyInfoInputs.cache
+/Users/Hi/Development/C#/Work-with-the-double-type/obj/Debug/netcoreapp3.1/Work-with-the-double-type.AssemblyInfo.cs
+/Users/Hi/Development/C#/Work-with-the-double-type/obj/Debug/netcoreapp3.1/Work-with-the-double-type.dll
+/Users/Hi/Development/C#/Work-with-the-double-type/obj/Debug/netcoreapp3.1/Work-with-the-double-type.pdb
